@@ -1,2 +1,2 @@
 # Level4Research
-This is level 4 research project releven model that is developed using machine learning algorithems
+This is final year research project conducted focusing on Microfinance feild , by considering risk areas like loan apprisal,High interest rate.
